@@ -1,4 +1,4 @@
-# ![alt text(image.png)] RapiKids
+# ![alt text](image.png) RapiKids
 
 **Guarderías cercanas y certificadas — Bogotá, Colombia**
 
