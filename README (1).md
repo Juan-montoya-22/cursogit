@@ -1,4 +1,4 @@
-# ![alt text](image.png) RapiKids
+# <img src="Logo_RapiKids.png" height="35" style="vertical-align: middle;"> RapiKids
 
 **Guarderías cercanas y certificadas — Bogotá, Colombia**
 
@@ -535,6 +535,13 @@ auth.users (Supabase interno)
 Este proyecto fue desarrollado como trabajo de grado en la **Universidad Antonio Nariño** — Facultad de Ingeniería de sistema.
 ---
 
-<p align="center">
-  ![alt text](image-1.png) <strong>RapiKids</strong> · Bogotá, Colombia · 2025
-</p>
+<div align="center">
+  <dl>
+    <dt>
+      <img src="Logo_RapiKids.png" height="35" alt="Logo" style="display: inline-block; vertical-align: middle;">
+      <span style="display: inline-block; vertical-align: middle;">
+        <strong>RapiKids</strong> • Bogotá, Colombia • 2026
+      </span>
+    </dt>
+  </dl>
+</div>
